@@ -17,6 +17,7 @@ import os
 # For simplicity, we will edit it manually.
 # Birthdays should be written in this file in
 # the format: "MonthDay Name Surname" (Without Quotes)
+This app helps in reminding birthdays and notifying your friend’s birthdays. This app uses Python and Ubuntu notifications to notify users on every startup of the system.
 
 birthdayFile = '/path/to/birthday/file'
 
